@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc0d12b-416e-4859-ab8f-1156430616f2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../test-git-projece1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../test-git-projece1/web/index.jsp" afterPath="$PROJECT_DIR$/../test-git-projece1/web/index.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/../test-git-projece1/out/" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../test-git-projece1/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="161">
+              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -275,7 +274,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581927953922</updated>
-      <workItem from="1581927955204" duration="654000" />
+      <workItem from="1581927955204" duration="816000" />
     </task>
     <task id="LOCAL-00001" summary="测试idea中使用git，首次提交代码">
       <created>1581928479887</created>
@@ -284,11 +283,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581928479887</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试idea中使用git，第二次提交代码">
+      <created>1581928639321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581928639321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="654000" />
+    <option name="totallyTimeSpent" value="816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -321,6 +327,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -352,7 +368,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试idea中使用git，首次提交代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试idea中使用git，首次提交代码" />
+    <MESSAGE value="测试idea中使用git，第二次提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试idea中使用git，第二次提交代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -369,8 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../test-git-projece1/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="161">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>

@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc0d12b-416e-4859-ab8f-1156430616f2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/artifacts/web_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/copyright/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/description.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/project-template.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/scopes/scope_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/test-git-projece1.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/web/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../test-git-projece1/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/../test-git-projece1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../test-git-projece1/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../test-git-projece1/web/index.jsp" afterPath="$PROJECT_DIR$/../test-git-projece1/web/index.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/../test-git-projece1/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +28,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../test-git-projece1/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="138">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -285,12 +275,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581927953922</updated>
-      <workItem from="1581927955204" duration="440000" />
+      <workItem from="1581927955204" duration="654000" />
     </task>
+    <task id="LOCAL-00001" summary="测试idea中使用git，首次提交代码">
+      <created>1581928479887</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581928479887</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440000" />
+    <option name="totallyTimeSpent" value="654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -305,7 +303,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.4970588" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4984227" sideWeight="0.4970588" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -323,8 +321,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试idea中使用git，首次提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试idea中使用git，首次提交代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -341,8 +369,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../test-git-projece1/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="138">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding />
         </state>
       </provider>
